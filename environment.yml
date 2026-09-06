@@ -1,0 +1,14 @@
+name: 
+  C:\Users\henri\OneDrive\Documentos\Projetos\seguranca-publica-analise\.conda
+channels:
+  - conda-forge
+dependencies:
+  - python=3.13
+  - matplotlib
+  - pandas
+  - scipy
+  - numpy
+  - ipykernel
+  - jupyter
+prefix: 
+  C:\Users\henri\OneDrive\Documentos\Projetos\seguranca-publica-analise\.conda
